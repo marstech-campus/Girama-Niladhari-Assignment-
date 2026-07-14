@@ -4,6 +4,7 @@
 $mysqli=mysqli_connect("localhost", "root","123" ,"resident_database");
 
 // //check connection
+// testing
 // if($mysqli===false){
 //     die("ERROR: COULD NOT CONNECT.".mysqli_connect_error());
 // }
